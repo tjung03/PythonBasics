@@ -1,4 +1,4 @@
-"""Summarize a UTF-8 text file using the course note's file and function topics."""
+"""Summarize a UTF-8 text file with functions and explicit read errors."""
 
 import sys
 
